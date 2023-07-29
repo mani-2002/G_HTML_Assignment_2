@@ -1,0 +1,100 @@
+*{
+    background-color:#C0ED73;
+}
+fieldset{
+    border:double;
+    background-color:#19F760;
+}
+#div1{
+    padding-left: 200px;
+    padding-top: 25px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+    font-size: 18px;
+}
+legend{
+    text-align: center;
+    font-size:30px;
+}
+input{
+    background-color:white;
+}
+textarea{
+    background-color:white;
+}
+.top{
+    background-color: #19F760;
+}
+.textarea{
+    background-color: #19F760;
+    display:flex;
+}
+.address{
+    background-color: #19F760;
+}
+.textarea1{
+    margin-left:100px;
+    padding-left: 159px;
+    background-color: #19F760;
+}
+.last{
+    background-color: #19F760;
+}
+#last1{
+    background-color: #19F760;
+    padding-left: 345px;
+}
+#accept{
+    background-color: #19F760;
+    text-align: center;
+    padding-left: 15px;
+}
+ul{
+    background-color: #19F760;
+}
+li{
+    background-color: #19F760;
+}
+select{
+    background-color:white;
+}
+option{
+    background-color:white;
+}
+button{
+    background-color: white;
+}
+#b1{
+    margin-left: 230px;
+    width:220px;
+    height:20px;
+}
+#b2{
+    margin-left: 240px;
+    width:220px;
+    height:20px;
+}
+#b3{
+    margin-left: 260px;
+    width:220px;
+    height:20px;
+    background-color: #19F760;
+}
+#s1{
+    margin-left: 283px;
+}
+#i1{
+    padding-left: 200px;
+    background-color: #19F760;
+}
+#i2{
+    padding-left: 182px;
+    background-color: #19F760;
+}
+.btn{
+    border-radius:4px;
+    padding:4px;
+}
+#btn1{
+    margin-left: 4px;
+}
